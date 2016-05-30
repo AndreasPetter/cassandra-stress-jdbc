@@ -1,4 +1,5 @@
----+ Cassandra Performance vs. JDBC Performance
+Cassandra Performance vs. JDBC Performance
+==========================================
 
 This stress-util is a quick hack to the Cassandra-Stress-util to support performance
 comparisons between databases. This stuff should work with almost every JDBC database like
